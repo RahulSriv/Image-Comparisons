@@ -1,4 +1,4 @@
-# Image-Comparisons
+# Image Comparisons
 Measures the extent of similarity between two images using OpenCV-Python.
 
 Finding if two images are equal with Opencv, is a quite simple operation.
