@@ -1,7 +1,7 @@
 # Image Comparisons
 Measures the extent of similarity between two images using OpenCV-Python.
 
-Finding if two images are equal with Opencv, is simple operation.
+Finding if two images are equal with Opencv, is a simple operation.
 
 There are 2 fundamental elements to consider:
 
